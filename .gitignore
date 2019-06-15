@@ -1,0 +1,8 @@
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Oo]bj/
+
+*.dll
+*.pdb
+*.deps.json
